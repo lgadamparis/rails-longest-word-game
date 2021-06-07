@@ -13,4 +13,4 @@ class GamesController < ApplicationController
 
 end
 
-
+<%= link_to "Some Page", some_path %>
